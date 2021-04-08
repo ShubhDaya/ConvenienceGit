@@ -1,0 +1,6 @@
+framework module Pods_Convenience_ConvenienceUITests {
+  umbrella header "Pods-Convenience-ConvenienceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
